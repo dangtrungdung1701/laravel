@@ -1,0 +1,19 @@
+{
+  "name": "reviewuniversity",
+  "version": "0.1.0",
+  "description": "web review university (IT)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/kunuit/reviewuniversity.git"
+  },
+  "author": "kun and ...",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/kunuit/reviewuniversity/issues"
+  },
+  "homepage": "https://gitlab.com/kunuit/reviewuniversity#readme"
+}

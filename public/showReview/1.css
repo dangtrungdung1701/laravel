@@ -1,0 +1,298 @@
+*{margin: 0; padding: 0;}
+
+.under {
+    color: #5d5444b3;
+    line-height: 20px;
+}
+
+.under .icon {
+    padding: 0px 25px;
+    font-size: 25px;
+}
+.unique-color-dark {
+    background-color: #eceff1 !important;
+  }
+  
+  footer {
+    color: #4f4f4f !important;
+  }
+  
+  .align-items-center a{
+    color: #FFFFFF !important;
+  }
+  
+  .align-items-center a:hover{
+    color: rgb(93, 228, 154) !important;
+  }
+  
+  footer.page-footer .footer-copyright {
+    overflow: hidden;
+    color: rgba(255,255,255,0.6);
+    background-color: rgba(0,0,0,0.2);
+  }
+  
+  footer a{
+    color: #4f4f4f !important;
+    text-decoration: none !important;
+  }
+  footer a:hover{
+    color: #4265d66e !important;
+    text-decoration: none !important;
+  }
+  
+  .fa-brain{
+    color: yellow;
+  }
+  
+  .fa-heart{
+    color: red;
+  }
+  
+
+img.logoifo {
+    width: 155px;
+    height: auto;
+}
+
+.footer h6 {
+    color: #ffffffd6;
+}
+
+.row.tongquat {padding-top: 20px;}
+
+
+
+small.logo1 {
+    width: 110px;
+    height: 119px;
+    display: block;
+    background-image: url(https://images1.content-hcs.com/wu-cont/images/what_foo_lgo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+.footer {
+    width: 100%;
+    height: 170px;
+    background: #00bbfd;
+}
+
+.footer h5 {
+    color: white;
+}
+
+span.icoin {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    text-align: center;
+    background: #007ab3;
+    border-radius: 50%;
+    line-height: 40px;
+    color: white;
+    margin-top: 10px;
+}
+
+p.textrv {
+    font-size: 16px;
+    text-transform: none;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+span.rate-new {
+    background-image: url(https://images8.content-hcs.com/wu-cont/images/rat_star.png);
+    width: 79px;
+    height: 15px;
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 13px;
+}
+
+.rating {
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.right .wrapright h4 {
+    font-size: 14px;
+    font-weight: 400;
+    color: #0000007d;
+}
+
+h3 {font-weight: normal;}
+
+/* .wrapright {
+    width: 566px;
+    height: 189px;
+    float: left;
+}   ->> lÃ´Ìƒi Æ¡Ì‰ Ä‘Ã¢y neÌ€ */
+
+.date {
+    font-size: 12px;
+    color: #00000073;
+    text-align: center;
+}
+
+.name {
+    width: 137px;
+    font-size: 14px;
+    margin: 9px 0 2px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.pr5 {
+    width: 65px;
+    height: 65px;
+    margin: auto;
+    font-size: 20px;
+    line-height: 65px;
+    color: white;
+    background: #00B26D;
+    border-radius: 50px;
+    padding-left: 21px;
+}
+
+.warpleft {
+    width: 137px;
+    height: 108px;
+    margin-right: 25px;
+    float: left;
+}
+
+.maincontent {
+    padding-top: 20px;
+    width: 748px;
+    height: 189px;
+    margin: auto;
+    display: block;
+}
+
+.sapxep{
+    width: 100%;
+    height: 45px;
+}
+.khungnho {
+    float: right;
+    width: 284px;
+    margin-top: 12px;
+}
+
+.content {
+    width: 980px;
+    height: 120px;
+    border-bottom: 1px solid #e2e2e2;
+}
+
+._1search:nth-child(2){
+    margin-right: 0;
+}
+._1search {
+    margin: 20px 20px 20px 0;
+    float: left;
+}
+
+label {
+    font-weight: 500;
+}
+
+small.logotimkiem {
+    float: right;
+    opacity: 0.4;
+    font-size: 18px;
+}
+
+.timkiem {
+    width: 480px;
+    height: 48px;
+    font-size: 15px;
+    line-height: 38px;
+    border: 2px solid #e2e2e2;
+    padding: 0 20px 2px 20px;
+    opacity: 1.4;
+}
+
+.motkhoinho {
+    padding: 10px 0 10px 0;
+    font-size: 16px;
+    display: inline-block;
+}
+
+.noidung {
+    padding-top: 30px;
+}
+html, body{
+    width: 100%;
+    height: 100%;
+}
+.duoitieude {
+    height: 183px;
+    width: 100%;
+    background: linear-gradient(to right, rgba(3, 155, 229, .9) 0%, rgba(0, 122, 179, .75) 27%, rgba(0, 178, 109, 1) 100%);
+}
+
+small.logo-sgin {
+    background-image: url(https://images8.content-hcs.com/wu-cont/images/pre_user_icn.svg);
+    width: 20px;
+    height: 16px;
+    display: inline-block;
+    background-repeat: no-repeat;
+}
+
+.sginout {
+    
+    margin-top: 28px;
+    display: block;
+    position: absolute;
+    right: 60px;
+}
+.sginout .sgin{
+    font-size: 14px;
+    margin-right: 16px;
+    display: inline-block;
+}
+
+
+.tieude{
+    height: 95px;
+    border-bottom: 1px solid #80808073;
+}
+.logo{
+    width: 64px;
+    height: 70px;
+    background-image: url(https://images2.content-hcs.com/wu-cont/images/whatuni_logo.svg);
+    display: inline-block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 10px 20px;
+}
+
+/* .footer small .logo1 {
+    background-image: url(https://images1.content-hcs.com/wu-cont/images/what_foo_lgo.png);
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+.search-wrap{
+    font-size: 16px;
+    line-height: 38px;
+    border: 2px solid #e2e2e2;
+    padding: 0 20px 2px 20px;
+    margin-top: 20px;
+}
+input.search{
+    border: none;
+    opacity: 0.4;
+}
+.search-wrap .logofind{
+    font-size: 16px;
+    color: #707070;
+    position: absolute;
+    right: 31px;
+}
